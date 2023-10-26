@@ -18,4 +18,7 @@ def find_ma(path_to_bw_image, result_dpi=1000):
 
 if __name__ == "__main__":
     args = sys.argv[1:]
-    find_ma(args[0])
+    if len(args) == 2:
+        find_ma(args[0], int(args[1]))
+    else:
+        find_ma(args[0])
