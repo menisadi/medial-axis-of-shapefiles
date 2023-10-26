@@ -23,7 +23,7 @@ python find_medial_axis.py <path_to_image> <dpi>
 The dpi parameter on both script is optional and defaults to 1000.
 
 ## Example
-Here are the results of running the scripts on the shapefile in the data folder:
+Here are the results of running the scripts on the shapefile in the data folder:   
 <img src="./medial_axis_israel.png" width="80">
 <img src="./medial_axis_usa.png" width="160">
 
