@@ -24,10 +24,8 @@ The dpi parameter on both script is optional and defaults to 1000.
 
 ## Example
 Here are the results of running the scripts on the shapefile in the data folder:
-<!-- ![israel](medial_axis_israel.png | width=100)) -->
 <img src="./medial_axis_israel.png" width="80">
-<!-- ![usa](medial_axis_usa.png) -->
-<img src="./medial_axis_usa.png" width="80">
+<img src="./medial_axis_usa.png" width="160">
 
 ## License
 This project is licensed under the terms of the [MIT](https://choosealicense.com/licenses/mit/) license.
