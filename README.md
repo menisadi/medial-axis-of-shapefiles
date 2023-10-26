@@ -24,7 +24,7 @@ The dpi parameter on both script is optional and defaults to 1000.
 
 ## Example
 Here are the results of running the scripts on the shapefile in the data folder:
-![israel](medial_axis_israel.png)
+![israel](medial_axis_israel.png | width=100))
 ![usa](medial_axis_usa.png)
 
 ## License
